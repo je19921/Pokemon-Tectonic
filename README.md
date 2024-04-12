@@ -1,14 +1,21 @@
 # Pokémon Tectonic Jeremy's Expansion
 No Pokémon left behind! That's why i'm adding to the great Pokemon Tectonic game generation 9, and a few custom Makyan forms. Other elements like pokemon rebalance, new evolutions will also be a part of the project if I feel like it.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Gen 9 Pokemons
-➤ Dig into 60+ hours of Makya, a new nonlinear region of mountains, caves, and tunnels
+# Generation 9 Pokemon
+➤ Meowscarada Evolution Line
+➤ Skeledirge Evolution Line
+➤ Cyclizar
+➤ Houndstone Evolution Line
+➤ Bellibolt Evolution Line
+➤ Hydrapple Evolution Line
+➤ All Paradox Pokemons (work done by Valrex)
 
 
-# Custom Makyan Forms
-➤ To be updated soon
+# Makyan Forms
+➤ Makyan Walrein Evolution Line
+➤ Makyan Roserade Evolution Line
 
-# Old pokemons rework
+# Gen1-8 Pokemon Additions
 ➤ To be updated soon
 
 # Other various improvements
@@ -21,6 +28,7 @@ All of these features have been fully implemented, along with 8 Gyms worth of co
 Game Engine: Pokémon Essentials v19.1
 
 Here is the credit for the team that made the original game (with my addition at the bottom for modding)
+
 | Team Leads      | Description |
 | :---        |    :----:   |
 |<a href="https://github.com/3rickbat">Brickbat</a>      | Project Lead|
@@ -31,7 +39,11 @@ Here is the credit for the team that made the original game (with my addition at
 |Drawingbox|Lead Artist|
 |Dedrum|Lead Composer|
 |Steeb|Lead Battle Designer|
+
+| Team Followers      | Description |
+| :---        |    :----:   |
 |<a href="https://github.com/je19921">je1992</a>|Debutant Modder, Tectonic Fan|
+
 
 
 Join our discord server at https://discord.gg/J3r7zRaMvP !  
