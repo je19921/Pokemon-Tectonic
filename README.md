@@ -15,8 +15,8 @@ No Pokémon left behind! That's why i'm adding to the great Pokemon Tectonic gam
 ➤ Makyan Walrein Evolution Line
 ➤ Makyan Roserade Evolution Line
 
-# Gen1-8 Pokemon Additions
-➤ To be updated soon
+# Generation 1-8 Pokemon Additions
+➤ Lycanroc (New Ability)
 
 # Other various improvements
 ➤ To be updated soon
