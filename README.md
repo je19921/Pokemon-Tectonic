@@ -1,5 +1,5 @@
-# Pokémon Tectonic
-No Pokémon left behind! That's our guiding philosophy for Pokémon Tectonic, which combines the best aspects of fangames and romhacks into a fresh Pokémon adventure experience.
+# Pokémon Tectonic Jeremy's Expansion
+No Pokémon left behind! That's why i'm adding to the great Pokemon Tectonic game generation 9, and a few custom Makyan forms. Other elements like pokemon rebalance, new evolutions will also be a part of the project if I feel like it.
 
 # Content
 ➤ Dig into 60+ hours of Makya, a new nonlinear region of mountains, caves, and tunnels
